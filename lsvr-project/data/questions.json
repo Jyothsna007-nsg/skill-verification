@@ -1,0 +1,207 @@
+{
+  "Python": [
+    {
+      "question": "What is the output of print(2**3)?",
+      "options": ["5", "6", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "options": ["func", "define", "def", "function"],
+      "answer": "def"
+    },
+    {
+      "question": "Which data type is immutable?",
+      "options": ["List", "Dictionary", "Set", "Tuple"],
+      "answer": "Tuple"
+    },
+    {
+      "question": "What is the correct file extension?",
+      "options": [".pt", ".py", ".pyt", ".python"],
+      "answer": ".py"
+    },
+    {
+      "question": "Which function is used to take input?",
+      "options": ["get()", "scan()", "input()", "read()"],
+      "answer": "input()"
+    }
+  ],
+
+  "Java": [
+    {
+      "question": "Which keyword is used to create a class?",
+      "options": ["class", "Class", "define", "object"],
+      "answer": "class"
+    },
+    {
+      "question": "Which method is entry point?",
+      "options": ["start()", "main()", "run()", "init()"],
+      "answer": "main()"
+    },
+    {
+      "question": "Java is ___ language?",
+      "options": ["compiled", "interpreted", "both", "none"],
+      "answer": "both"
+    },
+    {
+      "question": "Which is not primitive?",
+      "options": ["int", "float", "String", "char"],
+      "answer": "String"
+    },
+    {
+      "question": "Which keyword is used for inheritance?",
+      "options": ["extends", "inherits", "super", "this"],
+      "answer": "extends"
+    }
+  ],
+
+  "C": [
+    {
+      "question": "Which symbol is used for comments?",
+      "options": ["//", "/* */", "#", "<!-- -->"],
+      "answer": "/* */"
+    },
+    {
+      "question": "Which function is entry point?",
+      "options": ["start()", "main()", "run()", "init()"],
+      "answer": "main()"
+    },
+    {
+      "question": "Which header is used for printf?",
+      "options": ["stdlib.h", "stdio.h", "conio.h", "math.h"],
+      "answer": "stdio.h"
+    },
+    {
+      "question": "C is ___ language?",
+      "options": ["OOP", "Procedural", "Scripting", "None"],
+      "answer": "Procedural"
+    },
+    {
+      "question": "Which operator is for address?",
+      "options": ["*", "&", "%", "#"],
+      "answer": "&"
+    }
+  ],
+
+  "C++": [
+    {
+      "question": "C++ is extension of?",
+      "options": ["Java", "C", "Python", "JS"],
+      "answer": "C"
+    },
+    {
+      "question": "Which concept supports OOP?",
+      "options": ["Class", "Object", "Encapsulation", "All"],
+      "answer": "All"
+    },
+    {
+      "question": "Which operator is used for scope?",
+      "options": ["::", ".", "->", ":"],
+      "answer": "::"
+    },
+    {
+      "question": "Which keyword is used for inheritance?",
+      "options": ["extends", ":", "inherits", "base"],
+      "answer": ":"
+    },
+    {
+      "question": "Which is not OOP feature?",
+      "options": [
+        "Encapsulation",
+        "Polymorphism",
+        "Compilation",
+        "Inheritance"
+      ],
+      "answer": "Compilation"
+    }
+  ],
+
+  "JavaScript": [
+    {
+      "question": "Which keyword declares variable?",
+      "options": ["var", "let", "const", "All"],
+      "answer": "All"
+    },
+    {
+      "question": "JS is ___ language?",
+      "options": ["compiled", "interpreted", "both", "none"],
+      "answer": "interpreted"
+    },
+    {
+      "question": "Which symbol is for comments?",
+      "options": ["//", "#", "<!-- -->", "**"],
+      "answer": "//"
+    },
+    {
+      "question": "Which function prints output?",
+      "options": ["echo()", "print()", "console.log()", "log()"],
+      "answer": "console.log()"
+    },
+    {
+      "question": "Which type is not primitive?",
+      "options": ["Number", "String", "Object", "Boolean"],
+      "answer": "Object"
+    }
+  ],
+
+  "SQL": [
+    {
+      "question": "Which command retrieves data?",
+      "options": ["GET", "SELECT", "FETCH", "READ"],
+      "answer": "SELECT"
+    },
+    {
+      "question": "Which command inserts data?",
+      "options": ["ADD", "INSERT", "PUT", "CREATE"],
+      "answer": "INSERT"
+    },
+    {
+      "question": "Which clause filters?",
+      "options": ["WHERE", "ORDER", "GROUP", "SORT"],
+      "answer": "WHERE"
+    },
+    {
+      "question": "Which key is unique?",
+      "options": ["Primary Key", "Foreign Key", "Candidate", "All"],
+      "answer": "Primary Key"
+    },
+    {
+      "question": "Which joins tables?",
+      "options": ["MERGE", "JOIN", "COMBINE", "LINK"],
+      "answer": "JOIN"
+    }
+  ],
+
+  "HTML": [
+    {
+      "question": "HTML stands for?",
+      "options": [
+        "Hyper Text Markup Language",
+        "High Text Machine Language",
+        "Hyperlinks Text Mark",
+        "None"
+      ],
+      "answer": "Hyper Text Markup Language"
+    },
+    {
+      "question": "Which tag is for heading?",
+      "options": ["<h1>", "<p>", "<div>", "<span>"],
+      "answer": "<h1>"
+    },
+    {
+      "question": "Which tag is for link?",
+      "options": ["<a>", "<link>", "<href>", "<url>"],
+      "answer": "<a>"
+    },
+    {
+      "question": "Which tag is for image?",
+      "options": ["<img>", "<image>", "<pic>", "<src>"],
+      "answer": "<img>"
+    },
+    {
+      "question": "HTML is ___ language?",
+      "options": ["Programming", "Markup", "Scripting", "None"],
+      "answer": "Markup"
+    }
+  ]
+}

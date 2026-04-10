@@ -1,0 +1,44 @@
+lsvr-project/
+│
+├── index.php                  # Home page
+├── login.php                  # User login
+├── register.php               # User registration
+├── dashboard.php              # User dashboard
+├── exam.php                   # Exam page
+├── submit_exam.php            # Handles exam submission
+├── result.php                 # Result + resume display
+├── logout.php
+│
+├── admin/                     # Admin module
+│   ├── admin_login.php
+│   ├── admin_dashboard.php
+│   ├── manage_users.php
+│   ├── manage_questions.php
+│   ├── view_results.php
+│   └── send_notifications.php
+│
+├── includes/                  # Core backend logic
+│   ├── db.php                 # Database connection
+│   ├── auth.php               # Authentication logic
+│   ├── functions.php          # Common functions
+│   ├── exam_logic.php         # Question + evaluation logic
+│   ├── resume_generator.php   # Resume generation
+│   └── certificate_generator.php
+│
+├── assets/                    # Frontend
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── exam.js            # Timer + exam handling
+│   └── images/
+│
+├── data/                      # Static questions
+│   └── questions.json
+│
+├── uploads/                   # Generated resumes/certificates
+│
+├── config/
+│   └── config.php             # App settings
+│
+└── database/
+    └── lsvr.sql               # Database schema
